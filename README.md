@@ -1,4 +1,18 @@
-# TrumioAI ChatBot - Ethos Hackathon Project
+To fully enjoy everything we have to offer, we recommend that you first scroll through our landing page from top to bottom. This will introduce you to our key features, mission, and the overall look and feel of the platform.
+
+Take your time! Let the design and content give you a glimpse of the experience we’ve carefully built for you.
+
+💬 Navigate to the Chat
+Once you've explored the landing page, head straight to the Chat option located in the standard navigation bar at the top. This is where the magic happens! Whether you need assistance or just want to explore how Trumio Bot can enhance your experience, this is the place to be.
+
+✨ Explore Our Features
+After you’ve enjoyed the landing page and tried out the chat feature, we encourage you to dive into the rest of the platform. Here's a quick overview of what you’ll find:
+
+[Feature 1]: [Brief explanation of Feature 1].
+[Feature 2]: [Brief explanation of Feature 2].
+[Feature 3]: [Brief explanation of Feature 3].
+Each feature is designed to elevate your experience and help you achieve your goals with ease and satisfaction.
+
 
 Welcome to the repository of our **TrumioAI ChatBot**, developed as part of the IIT Guwahati *Ethos* Hackathon. Our goal is to create a versatile chatbot that merges general conversational AI capabilities with advanced task-specific functionalities, aiming to revolutionize the way users interact with different platforms.
 
