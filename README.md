@@ -110,5 +110,7 @@ Advice-->>
 
 Please Note: If you encounter any issues while running this project on your system, we encourage you to refer to the accompanying video tutorial for guidance. Your understanding and support are invaluable, and we would greatly appreciate the opportunity to showcase this piece of work live in the next round of the hackathon.
 
+LINK - https://ethos-deployed.vercel.app/?vercelToolbarCode=L3sy7xNx3DQWiBe
+
 Thank you for your consideration!
 ---
