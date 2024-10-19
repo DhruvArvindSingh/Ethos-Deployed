@@ -137,7 +137,7 @@ const Chat = () => {
                   class={active == "Linked Updater" ? "active" : ""}
                 >
                   <a href="https://anshbhardwaj22-rag-amam-new-code-tatnzi.streamlit.app/" data-title="Linked Updater">
-                    Linked Updater
+                    LinkedIn Updater
                   </a>
                 </li>
                 
