@@ -133,10 +133,10 @@ const Chat = () => {
                 </li>
                 <li
                   key={1}
-                  onClick={() => setActive("Linked Updater")}
-                  class={active == "Linked Updater" ? "active" : ""}
+                  onClick={() => setActive("LinkedIn Updater")}
+                  class={active == "LinkedIn Updater" ? "active" : ""}
                 >
-                  <a href="https://anshbhardwaj22-rag-amam-new-code-tatnzi.streamlit.app/" data-title="Linked Updater">
+                  <a href="https://anshbhardwaj22-rag-amam-new-code-tatnzi.streamlit.app/" data-title="LinkedIn Updater">
                     LinkedIn Updater
                   </a>
                 </li>
